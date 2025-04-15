@@ -3,7 +3,7 @@ I'm a passionate data science learner and aspiring software developer.
 ### 🧠 Currently Learning
 - 🧪 Data Science (Kaggle)
 - 📚 Data Structures (freeCodeCamp)
-- 📐 Linear Reggression (MIT OCW)
+- 📐 Linear Algebra (MIT OCW)
 <!--
 **samsil-arefeen123/samsil-arefeen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
